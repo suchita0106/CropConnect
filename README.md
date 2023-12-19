@@ -1,4 +1,4 @@
-**CropConnect: Nuturing Local Food Networks **
+**CropConnect: Nurturing Local Food Networks**
 
 Welcome to CropConnect, a groundbreaking platform reshaping the landscape of local agriculture. Our mission is to forge direct connections between farmers and restaurants, fostering a sustainable, efficient, and community-driven food ecosystem.
 
